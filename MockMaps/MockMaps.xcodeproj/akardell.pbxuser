@@ -29,7 +29,7 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {834, 1190}}";
+			sepNavIntBoundsRect = "{{0, 0}, {516, 1218}}";
 			sepNavSelRange = "{690, 0}";
 			sepNavVisRange = "{0, 931}";
 		};
@@ -69,42 +69,50 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 274163486;
-			PBXWorkspaceStateSaveDate = 274163486;
+			PBXPerProjectTemplateStateSaveDate = 274201650;
+			PBXWorkspaceStateSaveDate = 274201650;
 		};
 		perUserProjectItems = {
-			6B32F1691057685D006C55FF /* PBXTextBookmark */ = 6B32F1691057685D006C55FF /* PBXTextBookmark */;
-			6B32F16C1057685D006C55FF /* PBXTextBookmark */ = 6B32F16C1057685D006C55FF /* PBXTextBookmark */;
-			6B32F16D1057685D006C55FF /* PBXTextBookmark */ = 6B32F16D1057685D006C55FF /* PBXTextBookmark */;
-			6B32F19C1057F2C2006C55FF /* PlistBookmark */ = 6B32F19C1057F2C2006C55FF /* PlistBookmark */;
-			6B32F19E1057F2C2006C55FF /* PBXTextBookmark */ = 6B32F19E1057F2C2006C55FF /* PBXTextBookmark */;
-			6B32F19F1057F2C2006C55FF /* PlistBookmark */ = 6B32F19F1057F2C2006C55FF /* PlistBookmark */;
-			6B32F1A11057F2C2006C55FF /* PlistBookmark */ = 6B32F1A11057F2C2006C55FF /* PlistBookmark */;
-			6B32F1EA1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1EA1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1EC1057F6C8006C55FF /* PlistBookmark */ = 6B32F1EC1057F6C8006C55FF /* PlistBookmark */;
-			6B32F1ED1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1ED1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1EE1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1EE1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1EF1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1EF1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F01057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F01057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F11057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F11057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F21057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F21057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F31057F6C8006C55FF /* PlistBookmark */ = 6B32F1F31057F6C8006C55FF /* PlistBookmark */;
-			6B32F1F41057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F41057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F51057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F51057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F61057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F61057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F71057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F71057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F81057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F81057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1F91057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F91057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1FA1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FA1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1FB1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FB1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1FC1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FC1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1FD1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FD1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1FE1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FE1057F6C8006C55FF /* PBXTextBookmark */;
-			6B32F1FF1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FF1057F6C8006C55FF /* PBXTextBookmark */;
-			6BCD76751057623A00DD522A /* PlistBookmark */ = 6BCD76751057623A00DD522A /* PlistBookmark */;
-			6BCD76A1105765AA00DD522A /* PBXTextBookmark */ = 6BCD76A1105765AA00DD522A /* PBXTextBookmark */;
-			6BCD76A6105765AA00DD522A /* PBXTextBookmark */ = 6BCD76A6105765AA00DD522A /* PBXTextBookmark */;
-			6BCD76A9105765AA00DD522A /* PBXTextBookmark */ = 6BCD76A9105765AA00DD522A /* PBXTextBookmark */;
+			6B13F51A1057FC420097C7EA /* PBXTextBookmark */ = 6B13F51A1057FC420097C7EA /* PBXTextBookmark */;
+			6B13F51B1057FC420097C7EA /* PlistBookmark */ = 6B13F51B1057FC420097C7EA /* PlistBookmark */;
+			6B13F51C1057FC420097C7EA /* PBXTextBookmark */ = 6B13F51C1057FC420097C7EA /* PBXTextBookmark */;
+			6B13F51D1057FC420097C7EA /* PlistBookmark */ = 6B13F51D1057FC420097C7EA /* PlistBookmark */;
+			6B13F5221057FC750097C7EA /* PlistBookmark */ = 6B13F5221057FC750097C7EA /* PlistBookmark */;
+			6B13F5231057FC750097C7EA /* PBXBookmark */ = 6B13F5231057FC750097C7EA /* PBXBookmark */;
+			6B13F5241057FC750097C7EA /* PlistBookmark */ = 6B13F5241057FC750097C7EA /* PlistBookmark */;
+			6B13F5251057FC750097C7EA /* PBXBookmark */ = 6B13F5251057FC750097C7EA /* PBXBookmark */;
+			6B32F1691057685D006C55FF = 6B32F1691057685D006C55FF /* PBXTextBookmark */;
+			6B32F16C1057685D006C55FF = 6B32F16C1057685D006C55FF /* PBXTextBookmark */;
+			6B32F16D1057685D006C55FF = 6B32F16D1057685D006C55FF /* PBXTextBookmark */;
+			6B32F19C1057F2C2006C55FF = 6B32F19C1057F2C2006C55FF /* PlistBookmark */;
+			6B32F19E1057F2C2006C55FF = 6B32F19E1057F2C2006C55FF /* PBXTextBookmark */;
+			6B32F19F1057F2C2006C55FF = 6B32F19F1057F2C2006C55FF /* PlistBookmark */;
+			6B32F1A11057F2C2006C55FF = 6B32F1A11057F2C2006C55FF /* PlistBookmark */;
+			6B32F1EA1057F6C8006C55FF = 6B32F1EA1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1EC1057F6C8006C55FF = 6B32F1EC1057F6C8006C55FF /* PlistBookmark */;
+			6B32F1ED1057F6C8006C55FF = 6B32F1ED1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1EE1057F6C8006C55FF = 6B32F1EE1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1EF1057F6C8006C55FF = 6B32F1EF1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F01057F6C8006C55FF = 6B32F1F01057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F11057F6C8006C55FF = 6B32F1F11057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F21057F6C8006C55FF = 6B32F1F21057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F31057F6C8006C55FF = 6B32F1F31057F6C8006C55FF /* PlistBookmark */;
+			6B32F1F41057F6C8006C55FF = 6B32F1F41057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F51057F6C8006C55FF = 6B32F1F51057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F61057F6C8006C55FF = 6B32F1F61057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F71057F6C8006C55FF = 6B32F1F71057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F81057F6C8006C55FF = 6B32F1F81057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F91057F6C8006C55FF = 6B32F1F91057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FA1057F6C8006C55FF = 6B32F1FA1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FB1057F6C8006C55FF = 6B32F1FB1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FC1057F6C8006C55FF = 6B32F1FC1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FD1057F6C8006C55FF = 6B32F1FD1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FE1057F6C8006C55FF = 6B32F1FE1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FF1057F6C8006C55FF = 6B32F1FF1057F6C8006C55FF /* PBXTextBookmark */;
+			6BCD76751057623A00DD522A = 6BCD76751057623A00DD522A /* PlistBookmark */;
+			6BCD76A1105765AA00DD522A = 6BCD76A1105765AA00DD522A /* PBXTextBookmark */;
+			6BCD76A6105765AA00DD522A = 6BCD76A6105765AA00DD522A /* PBXTextBookmark */;
+			6BCD76A9105765AA00DD522A = 6BCD76A9105765AA00DD522A /* PBXTextBookmark */;
 		};
 		sourceControlManager = 6B95DA5310575B670016A357 /* Source Control */;
 		userBuildSettings = {
@@ -124,6 +132,82 @@
 			sepNavVisRange = "{0, 185}";
 		};
 	};
+	6B13F51A1057FC420097C7EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 18";
+		rLen = 0;
+		rLoc = 690;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 0;
+	};
+	6B13F51B1057FC420097C7EA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MockMaps-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/MockMaps-Info.plist";
+		rLen = 3;
+		rLoc = 0;
+	};
+	6B13F51C1057FC420097C7EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 18";
+		rLen = 0;
+		rLoc = 690;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 0;
+	};
+	6B13F51D1057FC420097C7EA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MockMaps-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/MockMaps-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6B13F5221057FC750097C7EA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MockMaps-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/MockMaps-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6B13F5231057FC750097C7EA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6B13F5201057FC650097C7EA /* Icon.png */;
+	};
+	6B13F5241057FC750097C7EA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MockMaps-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/MockMaps-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6B13F5251057FC750097C7EA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6B13F5201057FC650097C7EA /* Icon.png */;
+	};
 	6B32F1691057685D006C55FF /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 6B32F16A1057685D006C55FF /* CGGeometry.h */;
@@ -136,6 +220,7 @@
 	};
 	6B32F16A1057685D006C55FF /* CGGeometry.h */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
 		name = CGGeometry.h;
 		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
 		sourceTree = "<absolute>";
@@ -162,6 +247,7 @@
 	};
 	6B32F16E1057685D006C55FF /* CGGeometry.h */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
 		name = CGGeometry.h;
 		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
 		sourceTree = "<absolute>";
@@ -223,6 +309,7 @@
 	};
 	6B32F1EB1057F6C8006C55FF /* README */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = text;
 		name = README;
 		path = "/Users/akardell/Documents/Projects/iPhone Screencasts SimFinger/README";
 		sourceTree = "<absolute>";

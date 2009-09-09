@@ -15,6 +15,7 @@
 		2899E5220DE3E06400AC0155 /* MockMapsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* MockMapsViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* MockMapsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */; };
+		6B13F5211057FC650097C7EA /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B13F5201057FC650097C7EA /* Icon.png */; };
 		6B95DA5810575B850016A357 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B95DA5610575B850016A357 /* Default.png */; };
 		6B95DA5B10575BC10016A357 /* DemoSequence.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6B95DA5A10575BC10016A357 /* DemoSequence.plist */; };
 		6B95DA6610575D3F0016A357 /* IMG_0464.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 6B95DA5C10575D3F0016A357 /* IMG_0464.PNG */; };
@@ -42,6 +43,7 @@
 		28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MockMapsViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* MockMaps_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MockMaps_Prefix.pch; sourceTree = "<group>"; };
+		6B13F5201057FC650097C7EA /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		6B95DA5610575B850016A357 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		6B95DA5A10575BC10016A357 /* DemoSequence.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DemoSequence.plist; sourceTree = "<group>"; };
 		6B95DA5C10575D3F0016A357 /* IMG_0464.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0464.PNG; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				6B95DA6410575D3F0016A357 /* IMG_0472.PNG */,
 				6B95DA6510575D3F0016A357 /* IMG_0473.PNG */,
 				6B95DA5610575B850016A357 /* Default.png */,
+				6B13F5201057FC650097C7EA /* Icon.png */,
 				2899E5210DE3E06400AC0155 /* MockMapsViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* MockMaps-Info.plist */,
@@ -199,6 +202,7 @@
 				6B95DA6D10575D3F0016A357 /* IMG_0471.PNG in Resources */,
 				6B95DA6E10575D3F0016A357 /* IMG_0472.PNG in Resources */,
 				6B95DA6F10575D3F0016A357 /* IMG_0473.PNG in Resources */,
+				6B13F5211057FC650097C7EA /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -228,6 +228,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -274,8 +276,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>5</integer>
-									<integer>1</integer>
+									<integer>21</integer>
+									<integer>9</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -310,14 +312,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MockMapsViewController.m</string>
+								<string>Icon.png</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,47 +325,39 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MockMapsViewController.m</string>
+										<string>Icon.png</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>6B32F1FF1057F6C8006C55FF</string>
+										<string>6B13F5251057FC750097C7EA</string>
 										<key>history</key>
 										<array>
 											<string>6BCD76A1105765AA00DD522A</string>
 											<string>6B32F1691057685D006C55FF</string>
 											<string>6B32F19C1057F2C2006C55FF</string>
 											<string>6B32F1EA1057F6C8006C55FF</string>
-											<string>6B32F1EC1057F6C8006C55FF</string>
 											<string>6B32F1ED1057F6C8006C55FF</string>
 											<string>6B32F1EE1057F6C8006C55FF</string>
 											<string>6B32F1EF1057F6C8006C55FF</string>
 											<string>6B32F1F01057F6C8006C55FF</string>
 											<string>6B32F1F11057F6C8006C55FF</string>
-											<string>6B32F1F21057F6C8006C55FF</string>
+											<string>6B13F51A1057FC420097C7EA</string>
+											<string>6B13F5221057FC750097C7EA</string>
+											<string>6B13F5231057FC750097C7EA</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>6BCD76751057623A00DD522A</string>
 											<string>6BCD76A6105765AA00DD522A</string>
 											<string>6BCD76A9105765AA00DD522A</string>
-											<string>6B32F16C1057685D006C55FF</string>
 											<string>6B32F16D1057685D006C55FF</string>
-											<string>6B32F19E1057F2C2006C55FF</string>
-											<string>6B32F19F1057F2C2006C55FF</string>
-											<string>6B32F1A11057F2C2006C55FF</string>
 											<string>6B32F1F31057F6C8006C55FF</string>
 											<string>6B32F1F41057F6C8006C55FF</string>
 											<string>6B32F1F51057F6C8006C55FF</string>
-											<string>6B32F1F61057F6C8006C55FF</string>
-											<string>6B32F1F71057F6C8006C55FF</string>
 											<string>6B32F1F81057F6C8006C55FF</string>
 											<string>6B32F1F91057F6C8006C55FF</string>
-											<string>6B32F1FA1057F6C8006C55FF</string>
-											<string>6B32F1FB1057F6C8006C55FF</string>
-											<string>6B32F1FC1057F6C8006C55FF</string>
-											<string>6B32F1FD1057F6C8006C55FF</string>
-											<string>6B32F1FE1057F6C8006C55FF</string>
+											<string>6B13F51C1057FC420097C7EA</string>
+											<string>6B13F5241057FC750097C7EA</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -423,9 +415,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>6B32F15910576722006C55FF</string>
+				<string>6B13F51E1057FC420097C7EA</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>6B32F15A10576722006C55FF</string>
+				<string>6B13F51F1057FC420097C7EA</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -559,9 +551,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>6BCD76AC105765AA00DD522A</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/MockMaps.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
