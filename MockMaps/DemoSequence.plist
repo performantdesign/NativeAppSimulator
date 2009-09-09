@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Delay</key>
+		<real>0.8</real>
+		<key>Image</key>
+		<string>IMG_0464.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0465.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0466.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0467.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0468.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0469.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0470.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0471.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0472.PNG</string>
+	</dict>
+	<dict>
+		<key>Delay</key>
+		<string>0</string>
+		<key>Image</key>
+		<string>IMG_0473.PNG</string>
+	</dict>
+</array>
+</plist>

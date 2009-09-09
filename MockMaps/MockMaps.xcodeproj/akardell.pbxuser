@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MockMapsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {480, 490}}";
+			sepNavSelRange = "{755, 0}";
+			sepNavVisRange = "{85, 951}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MockMapsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {480, 644}}";
+			sepNavSelRange = "{1251, 0}";
+			sepNavVisRange = "{588, 669}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MockMaps */ = {
+		activeExec = 0;
+		executables = (
+			6B95DA5010575B490016A357 /* MockMaps */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MockMapsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {480, 518}}";
+			sepNavSelRange = "{31, 0}";
+			sepNavVisRange = "{134, 931}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {834, 1190}}";
+			sepNavSelRange = "{690, 0}";
+			sepNavVisRange = "{0, 931}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6B95DA5010575B490016A357 /* MockMaps */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MockMaps */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MockMaps */,
+		);
+		codeSenseManager = 6B95DA5410575B670016A357 /* Code sense */;
+		executables = (
+			6B95DA5010575B490016A357 /* MockMaps */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					302,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274163486;
+			PBXWorkspaceStateSaveDate = 274163486;
+		};
+		perUserProjectItems = {
+			6B32F1691057685D006C55FF /* PBXTextBookmark */ = 6B32F1691057685D006C55FF /* PBXTextBookmark */;
+			6B32F16C1057685D006C55FF /* PBXTextBookmark */ = 6B32F16C1057685D006C55FF /* PBXTextBookmark */;
+			6B32F16D1057685D006C55FF /* PBXTextBookmark */ = 6B32F16D1057685D006C55FF /* PBXTextBookmark */;
+			6B32F19C1057F2C2006C55FF /* PlistBookmark */ = 6B32F19C1057F2C2006C55FF /* PlistBookmark */;
+			6B32F19E1057F2C2006C55FF /* PBXTextBookmark */ = 6B32F19E1057F2C2006C55FF /* PBXTextBookmark */;
+			6B32F19F1057F2C2006C55FF /* PlistBookmark */ = 6B32F19F1057F2C2006C55FF /* PlistBookmark */;
+			6B32F1A11057F2C2006C55FF /* PlistBookmark */ = 6B32F1A11057F2C2006C55FF /* PlistBookmark */;
+			6B32F1EA1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1EA1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1EC1057F6C8006C55FF /* PlistBookmark */ = 6B32F1EC1057F6C8006C55FF /* PlistBookmark */;
+			6B32F1ED1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1ED1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1EE1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1EE1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1EF1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1EF1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F01057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F01057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F11057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F11057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F21057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F21057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F31057F6C8006C55FF /* PlistBookmark */ = 6B32F1F31057F6C8006C55FF /* PlistBookmark */;
+			6B32F1F41057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F41057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F51057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F51057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F61057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F61057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F71057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F71057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F81057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F81057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1F91057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1F91057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FA1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FA1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FB1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FB1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FC1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FC1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FD1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FD1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FE1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FE1057F6C8006C55FF /* PBXTextBookmark */;
+			6B32F1FF1057F6C8006C55FF /* PBXTextBookmark */ = 6B32F1FF1057F6C8006C55FF /* PBXTextBookmark */;
+			6BCD76751057623A00DD522A /* PlistBookmark */ = 6BCD76751057623A00DD522A /* PlistBookmark */;
+			6BCD76A1105765AA00DD522A /* PBXTextBookmark */ = 6BCD76A1105765AA00DD522A /* PBXTextBookmark */;
+			6BCD76A6105765AA00DD522A /* PBXTextBookmark */ = 6BCD76A6105765AA00DD522A /* PBXTextBookmark */;
+			6BCD76A9105765AA00DD522A /* PBXTextBookmark */ = 6BCD76A9105765AA00DD522A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6B95DA5310575B670016A357 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {480, 420}}";
+			sepNavSelRange = "{11, 0}";
+			sepNavVisRange = "{0, 913}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MockMaps_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {540, 417}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	6B32F1691057685D006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B32F16A1057685D006C55FF /* CGGeometry.h */;
+		name = "CGGeometry.h: 23";
+		rLen = 18;
+		rLoc = 358;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	6B32F16A1057685D006C55FF /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	6B32F16C1057685D006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 23";
+		rLen = 6;
+		rLoc = 1104;
+		rType = 0;
+		vrLen = 993;
+		vrLoc = 147;
+	};
+	6B32F16D1057685D006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B32F16E1057685D006C55FF /* CGGeometry.h */;
+		name = "CGGeometry.h: 23";
+		rLen = 18;
+		rLoc = 358;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	6B32F16E1057685D006C55FF /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	6B32F19C1057F2C2006C55FF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 6B95DA5A10575BC10016A357 /* DemoSequence.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/DemoSequence.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6B32F19E1057F2C2006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 31";
+		rLen = 0;
+		rLoc = 1527;
+		rType = 0;
+		vrLen = 1154;
+		vrLoc = 147;
+	};
+	6B32F19F1057F2C2006C55FF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 6B95DA5A10575BC10016A357 /* DemoSequence.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			0,
+			Delay,
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/DemoSequence.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6B32F1A11057F2C2006C55FF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 6B95DA5A10575BC10016A357 /* DemoSequence.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/DemoSequence.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6B32F1EA1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B32F1EB1057F6C8006C55FF /* README */;
+		name = "README: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	6B32F1EB1057F6C8006C55FF /* README */ = {
+		isa = PBXFileReference;
+		name = README;
+		path = "/Users/akardell/Documents/Projects/iPhone Screencasts SimFinger/README";
+		sourceTree = "<absolute>";
+	};
+	6B32F1EC1057F6C8006C55FF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MockMaps-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/MockMaps-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6B32F1ED1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MockMaps_Prefix.pch */;
+		name = "MockMaps_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	6B32F1EE1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 2";
+		rLen = 0;
+		rLoc = 11;
+		rType = 0;
+		vrLen = 913;
+		vrLoc = 0;
+	};
+	6B32F1EF1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MockMapsAppDelegate.h */;
+		name = "MockMapsAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 755;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 85;
+	};
+	6B32F1F01057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MockMapsAppDelegate.m */;
+		name = "MockMapsAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 1251;
+		rType = 0;
+		vrLen = 669;
+		vrLoc = 588;
+	};
+	6B32F1F11057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MockMapsViewController.h */;
+		name = "MockMapsViewController.h: 2";
+		rLen = 0;
+		rLoc = 31;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 134;
+	};
+	6B32F1F21057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 2";
+		rLen = 29;
+		rLoc = 3;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 0;
+	};
+	6B32F1F31057F6C8006C55FF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MockMaps-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/MockMaps-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6B32F1F41057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MockMapsAppDelegate.m */;
+		name = "MockMapsAppDelegate.m: 1";
+		rLen = 698;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 927;
+		vrLoc = 0;
+	};
+	6B32F1F51057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MockMapsAppDelegate.h */;
+		name = "MockMapsAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 698;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 0;
+	};
+	6B32F1F61057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MockMapsViewController.h */;
+		name = "MockMapsViewController.h: 20";
+		rLen = 0;
+		rLoc = 701;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 0;
+	};
+	6B32F1F71057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 20";
+		rLen = 0;
+		rLoc = 701;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 0;
+	};
+	6B32F1F81057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MockMaps_Prefix.pch */;
+		name = "MockMaps_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	6B32F1F91057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 2";
+		rLen = 0;
+		rLoc = 11;
+		rType = 0;
+		vrLen = 913;
+		vrLoc = 0;
+	};
+	6B32F1FA1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 2";
+		rLen = 29;
+		rLoc = 3;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 0;
+	};
+	6B32F1FB1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MockMapsViewController.h */;
+		name = "MockMapsViewController.h: 2";
+		rLen = 0;
+		rLoc = 31;
+		rType = 0;
+		vrLen = 973;
+		vrLoc = 0;
+	};
+	6B32F1FC1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MockMapsAppDelegate.h */;
+		name = "MockMapsAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 755;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 85;
+	};
+	6B32F1FD1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MockMapsAppDelegate.m */;
+		name = "MockMapsAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 1251;
+		rType = 0;
+		vrLen = 669;
+		vrLoc = 588;
+	};
+	6B32F1FE1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MockMapsViewController.h */;
+		name = "MockMapsViewController.h: 2";
+		rLen = 0;
+		rLoc = 31;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 134;
+	};
+	6B32F1FF1057F6C8006C55FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 18";
+		rLen = 0;
+		rLoc = 690;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 0;
+	};
+	6B95DA5010575B490016A357 /* MockMaps */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MockMaps;
+		sourceDirectories = (
+		);
+	};
+	6B95DA5310575B670016A357 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	6B95DA5410575B670016A357 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6BCD76751057623A00DD522A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 6B95DA5A10575BC10016A357 /* DemoSequence.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/akardell/Documents/Projects/MobileOrchard-DemoVideo/MockMaps/DemoSequence.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6BCD76A1105765AA00DD522A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6BCD76A2105765AA00DD522A /* NSDate.h */;
+		name = "NSDate.h: 9";
+		rLen = 31;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 708;
+		vrLoc = 0;
+	};
+	6BCD76A2105765AA00DD522A /* NSDate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDate.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h;
+		sourceTree = "<absolute>";
+	};
+	6BCD76A6105765AA00DD522A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MockMapsViewController.h */;
+		name = "MockMapsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 48;
+	};
+	6BCD76A9105765AA00DD522A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MockMapsViewController.m */;
+		name = "MockMapsViewController.m: 40";
+		rLen = 0;
+		rLoc = 2308;
+		rType = 0;
+		vrLen = 1149;
+		vrLoc = 281;
+	};
+}
